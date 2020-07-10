@@ -13,6 +13,9 @@ EnDecoder is a simple python based tool to Encode and Decode strings
    * Run the EnDecoder
    <br>`python run_me.py`
    
+   * Run the EnDecoder in repl.it<br>
+   [![Run on Repl.it](https://repl.it/badge/github/lonewol7f/EnDecoder)](https://repl.it/github/lonewol7f/EnDecoder)
+   
    
 ### Features 😍
    
